@@ -15,7 +15,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 
 # Now try reading the Parquet file again
-parquet_path = "/home/kali/Documents/object_storage/"
+parquet_path = "/home/kali/Documents/object_storage1/"
 
 df = pd.read_parquet(parquet_path)
 
