@@ -12,3 +12,9 @@ Visualization: Connected data to Grafana for real-time monitoring and visualizat
 
 
 ![Blank diagram](https://github.com/user-attachments/assets/e070eac1-12b8-4014-b866-9011131aadc1)
+
+
+Grafana Dashboard:
+
+![Screenshot 2024-10-28 215327](https://github.com/user-attachments/assets/70d795e5-9ecb-4388-8d34-874b39f77a9d)
+
